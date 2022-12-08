@@ -4,8 +4,8 @@ from pwn import *
 elf = ELF('./format2win')
 rop = ROP(elf)
 
-#p = elf.process()
-p = remote('18.143.17.69', 9001)
+p = elf.process()
+# p = remote('18.143.17.69', 9001)
 
 def exploit():
 
