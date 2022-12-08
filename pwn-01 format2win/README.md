@@ -1,4 +1,5 @@
-# pwn01: format2win
+# pwn-01: format2win
+
 **Difficulty:** EASY
 
 **Keywords/Tags:** *ret2win, format string vulnerability*
