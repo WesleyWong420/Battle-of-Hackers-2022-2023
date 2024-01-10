@@ -1,0 +1,6 @@
+﻿  anti_debug.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  MetalPipe.cpp
+C:\Users\Wesley\source\repos\MetalPipe\MetalPipe\MetalPipe.cpp(70,10): warning C4101: 'messageLength': unreferenced local variable
+  Generating Code...
+  MetalPipe.vcxproj -> C:\Users\Wesley\source\repos\MetalPipe\Debug\MetalPipe.exe
