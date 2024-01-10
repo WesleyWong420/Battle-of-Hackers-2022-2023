@@ -1,0 +1,9 @@
+﻿  Grape.cpp
+C:\Users\Wesley\source\repos\Grape\Grape\Grape.cpp(68,29): warning C4101: 'e': unreferenced local variable
+C:\Users\Wesley\source\repos\Grape\Grape\Grape.cpp(82,9): warning C4551: function call missing argument list
+C:\Users\Wesley\source\repos\Grape\Grape\Grape.cpp(89,13): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 883 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Grape.vcxproj -> C:\Users\Wesley\source\repos\Grape\x64\Release\Grape.exe

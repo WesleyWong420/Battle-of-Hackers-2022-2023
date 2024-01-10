@@ -1,0 +1,5 @@
+﻿  Grape.cpp
+C:\Users\Wesley\source\repos\Grape\Grape\Grape.cpp(68,29): warning C4101: 'e': unreferenced local variable
+C:\Users\Wesley\source\repos\Grape\Grape\Grape.cpp(82,9): warning C4551: function call missing argument list
+C:\Users\Wesley\source\repos\Grape\Grape\Grape.cpp(89,13): warning C4551: function call missing argument list
+  Grape.vcxproj -> C:\Users\Wesley\source\repos\Grape\x64\Debug\Grape.exe
